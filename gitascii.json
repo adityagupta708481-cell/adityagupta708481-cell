@@ -11537,7 +11537,13 @@
       },
       "config": {
         "animationType": "typewriter",
-        "animationPreviewKey": 1
+        "animationPreviewKey": 1,
+        "headerColor": "#ffffff",
+        "labelColor": "#ffb800",
+        "dotColor": "#3f3f46",
+        "valueColor": "#fafafa",
+        "statsValColor": "#e4e4e7",
+        "dividerColor": "#27272a"
       },
       "locked": true,
       "visible": true,
@@ -11553,7 +11559,7 @@
       },
       "size": {
         "width": 800,
-        "height": 140
+        "height": 160
       },
       "config": {},
       "locked": true,
@@ -11587,18 +11593,40 @@
       "widgetId": "footer",
       "position": {
         "x": 0,
-        "y": 874
+        "y": 1072
       },
       "size": {
         "width": 800,
         "height": 50
       },
       "config": {},
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 6,
       "instanceId": "widget_1787259499612_5",
       "name": "Footer Widget"
+    },
+    {
+      "instanceId": "widget_1788368378099",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 814
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {
+        "accentColor": "#ffb800",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "animationDuration": 1000
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
     }
   ],
   "globalStyles": {
