@@ -17653,13 +17653,13 @@
         "showStatsSection": true,
         "showEmail": true,
         "headerColor": "#ffffff",
-        "labelColor": "#ff4a4a",
+        "labelColor": "#ffb800",
         "dotColor": "#3f3f46",
         "valueColor": "#fafafa",
         "statsValColor": "#e4e4e7",
         "dividerColor": "#27272a",
         "showAchievements": true,
-        "accentColor": "#ff4a4a"
+        "accentColor": "#ffb800"
       },
       "locked": false,
       "visible": true,
@@ -17681,7 +17681,8 @@
         "animationType": "slide-up",
         "animationPreviewKey": 16,
         "hideLangsArr": [],
-        "hideLangs": ""
+        "hideLangs": "",
+        "accentColor": "#ffb800"
       },
       "locked": true,
       "visible": true,
@@ -17707,7 +17708,7 @@
         "repoViewMode": "grid",
         "maxRepos": 4,
         "repoSortBy": "updated",
-        "accentColor": "#ff4a4a",
+        "accentColor": "#ffb800",
         "showRepoDesc": true
       },
       "locked": true,
@@ -17767,7 +17768,8 @@
         "cols": 85,
         "animationType": "glitch",
         "animationPreviewKey": 10,
-        "animationDuration": 1000
+        "animationDuration": 1000,
+        "accentColor": "#ffb800"
       },
       "locked": false,
       "visible": true,
